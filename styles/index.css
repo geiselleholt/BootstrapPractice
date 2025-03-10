@@ -1,0 +1,12 @@
+img {
+  object-fit: contain;
+}
+
+h2 {
+  text-align: center;
+}
+
+.progress {
+  margin: 1rem;
+  border: solid black;
+}
